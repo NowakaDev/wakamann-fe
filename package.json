@@ -2,7 +2,7 @@
   "name": "wakamann-fe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://weber77.github.io/wakamann-fe",
+  "homepage": "https://nowakadev.github.io/wakamann-fe/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
