@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/wakamann-fe/static/css/main.f1a11ad0.css",
-    "main.js": "/wakamann-fe/static/js/main.af15eb66.js",
-    "static/js/787.5bf857f5.chunk.js": "/wakamann-fe/static/js/787.5bf857f5.chunk.js",
-    "static/media/home-img.png": "/wakamann-fe/static/media/home-img.35523fff86a6e605eab4.png",
-    "index.html": "/wakamann-fe/index.html",
-    "main.f1a11ad0.css.map": "/wakamann-fe/static/css/main.f1a11ad0.css.map",
-    "main.af15eb66.js.map": "/wakamann-fe/static/js/main.af15eb66.js.map",
-    "787.5bf857f5.chunk.js.map": "/wakamann-fe/static/js/787.5bf857f5.chunk.js.map"
+    "main.css": "/static/css/main.f1a11ad0.css",
+    "main.js": "/static/js/main.74985d7d.js",
+    "static/js/787.5bf857f5.chunk.js": "/static/js/787.5bf857f5.chunk.js",
+    "static/media/home-img.png": "/static/media/home-img.35523fff86a6e605eab4.png",
+    "index.html": "/index.html",
+    "main.f1a11ad0.css.map": "/static/css/main.f1a11ad0.css.map",
+    "main.74985d7d.js.map": "/static/js/main.74985d7d.js.map",
+    "787.5bf857f5.chunk.js.map": "/static/js/787.5bf857f5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f1a11ad0.css",
-    "static/js/main.af15eb66.js"
+    "static/js/main.74985d7d.js"
   ]
 }
